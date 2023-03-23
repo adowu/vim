@@ -1,2 +1,2 @@
-# vim-command
+# vim
 vim common command record
