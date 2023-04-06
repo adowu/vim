@@ -29,6 +29,14 @@
 3. e 或 E 光标移动至下一个单词的单词尾
 
 
+### 检索多文件
+
+1. vimgrep
+
+    `
+    a. :vimgrep /user/g **
+    b. 使用 :cw, :copen 可以打开该列表
+    `
 
 ## nerdTree 命令总结
 
