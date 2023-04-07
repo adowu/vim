@@ -31,11 +31,22 @@
 
 ### 检索多文件
 
-1. vimgrep
+1. vimgrep or (:Ag)
 
     >a. :vimgrep /user/g **
 
     >b. 使用 :cw, :copen 可以打开该列表
+
+
+### 切分窗口
+
+>:split or :vsplit
+
+>control ww 切换窗口
+
+>:q 关闭当前 :qall 关闭搜有  :only 保留当前
+
+>control w +/- 缩放窗口
 
 ## nerdTree 命令总结
 
