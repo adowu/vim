@@ -36,6 +36,7 @@
     >a. :vimgrep /user/g **
 
     >b. 使用 :cw, :copen 可以打开该列表
+    
     >c. Ag 命令mac电脑要安装 brew install the_silver_searcher
 
 
